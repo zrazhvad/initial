@@ -8,7 +8,7 @@ namespace mySite.Controllers
         [HttpGet]
         public IActionResult Greetings()
         {
-            return Ok("Hello from ASP.NET Core Web Api");
+            return Ok("Hi! I'm Zrazhva Denis");
         }
     }
 }
